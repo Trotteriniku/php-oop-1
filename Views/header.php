@@ -1,5 +1,5 @@
 <?php
-
+include __DIR__ . "/../Model/Movie.php";
 
 ?>
 
@@ -25,4 +25,3 @@
         <header></header>
     </header>
     <main>
-        main
